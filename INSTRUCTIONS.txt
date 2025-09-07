@@ -1,0 +1,40 @@
+# Jan Marxen - PGI-4 Presentation
+## Instructions for Viewing
+
+Thank you for your interest in my application for the Integrated Computing Architectures position at PGI-4.
+
+### Quick Start (Recommended)
+1. Extract this ZIP file to any folder
+2. Open a terminal/command prompt in the extracted folder
+3. Run: `python3 -m http.server 8080` (or `python -m http.server 8080`)
+4. Open your browser and go to: http://localhost:8080/index.html
+
+### Alternative Method
+1. Extract the ZIP file
+2. Open `index.html` directly in any modern web browser
+   - Note: Some features may not work due to browser security restrictions
+
+### Navigation
+- Use arrow keys, spacebar, or the circular arrow buttons to navigate
+- The presentation auto-centers content for optimal viewing
+- Compatible with Chrome, Firefox, Safari, and Edge
+
+### Technical Requirements
+- Any modern web browser (Chrome, Firefox, Safari, Edge)
+- Optional: Python 3.x for local server (recommended for best experience)
+
+### Content Overview
+The presentation covers my background in:
+- Mathematical modeling and computational physics
+- HPC and distributed computing experience
+- Bio-inspired algorithms and neuromorphic computing relevance
+- Motivation for joining PGI-4's research mission
+
+### Contact
+- Email: jan.marxen@gmail.com
+- LinkedIn: linkedin.com/in/jan-esquível-marxen
+- GitHub: github.com/janmarxen
+
+---
+Best regards,
+Jan Esquível Marxen
