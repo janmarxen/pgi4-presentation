@@ -4,7 +4,7 @@ An interactive presentation showcasing my background and motivation for the Inte
 
 ## View the Presentation
 
-**Live Demo:** [Click here to view the presentation](https://yourusername.github.io/pgi4-presentation/)
+**Live Demo:** [Click here to view the presentation](https://janmarxen.github.io/pgi4-presentation/)
 
 ## Features
 
